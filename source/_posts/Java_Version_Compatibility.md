@@ -1,7 +1,14 @@
 ---
 title: Java版本兼容问题
 date: 2018-10-05 16:53:03
-tags: JDK兼容 Java 向下兼容 major.minor
+categories:
+- 后端
+- JDK
+tags:
+- JDK兼容
+- Java
+- 向下兼容
+- major.minor
 ---
 
 > Java代码编写完成后，通常要经过编译，编译后产生jar再运行。随着Java版本的升级，编译工具与运行环境都有一定的升级，不过官方称这些都是向下兼容的。

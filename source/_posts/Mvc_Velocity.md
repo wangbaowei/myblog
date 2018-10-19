@@ -1,7 +1,12 @@
 ---
 title: spring mvc中应用velocity
 date: 2018-10-14 14:31:08
+categories:
+- 后端
+- Spring
 tags:
+- SpringMvc
+- Velocity
 ---
 
 ### Velocity

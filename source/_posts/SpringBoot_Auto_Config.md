@@ -1,7 +1,13 @@
 ---
 title: Spring Boot 自动配置
 date: 2018-08-04 00:25:58
+categories:
+- 后端
+- SpringBoot
 tags:
+- SpringBoot
+- Java
+- 自动配置
 ---
 
 > 今天这篇文章不再演示具体代码，只讲些我对Spring Boot自动配置特性的认识，我们首先初步认识它，然后理解它存在的意义、以及实际应用场景。
